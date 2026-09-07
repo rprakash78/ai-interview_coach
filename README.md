@@ -53,7 +53,7 @@ Open the interactive API documentation at `http://localhost:8000/docs`.
 ## Endpoints
 
 - `POST /interview/question` generates structured interview questions.
-- `POST /interview/question-with-tools` demonstrates Groq tool calling.
+- `POST /interview/question-with-toools` demonstrates Groq tool calling.
 - `GET /` checks that the API is running.
 
 Example request:
